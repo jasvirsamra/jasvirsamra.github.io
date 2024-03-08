@@ -10,8 +10,8 @@
  - template for invocing
  - template for inventory
  - template for automation
-  
-{**follow me on facebook**}(https://www.facebook.com/profile.php?id=100055111428668)
+(![alt text](<Brown Creative Vintage Rustic Motivational Quote Poster.png>))
+![**follow me on facebook**](https://www.facebook.com/profile.php?id=100055111428668)!
 
 ## Credits: Trios College , Michael Lewis
 
