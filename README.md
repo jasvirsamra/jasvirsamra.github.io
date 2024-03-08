@@ -11,5 +11,13 @@
  - template for inventory
  - template for automation
   
-{follow me on facebook}(https://www.facebook.com/profile.php?id=100055111428668)
+{**follow me on facebook**}(https://www.facebook.com/profile.php?id=100055111428668)
 
+## Credits: Trios College , Michael Lewis
+
+# About me: Jasvir Singh Samra
+- I am a techno Manager with graduation in science and completed my Masters in business administration, I have 08 years of experience in customer service and learned to provide solutions to repetitive work through excel.
+
+### Career Goals
+- To develop some useful Appplications that can automate human work
+- To develop application to reach your answers easily
