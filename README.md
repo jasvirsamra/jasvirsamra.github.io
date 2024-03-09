@@ -1,5 +1,5 @@
 # jasvirsamra.github.io
-*** My first Wiki Ever***
+
 ## project : join me for creating excel templates
 ### {Excel for professionals }(provide me details on the forum)
 ### Excel for Students (link)
@@ -13,7 +13,7 @@
 (![alt text](<Brown Creative Vintage Rustic Motivational Quote Poster.png>))
 ![**follow me on facebook**](https://www.facebook.com/profile.php?id=100055111428668)!
 
-## Credits: Trios College , Michael Lewis
+
 
 # About me: Jasvir Singh Samra
 - I am a techno Manager with graduation in science and completed my Masters in business administration, I have 08 years of experience in customer service and learned to provide solutions to repetitive work through excel.
